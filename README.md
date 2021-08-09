@@ -1,4 +1,4 @@
-Hi, My name is **Praveen Srivastava** and currently I am associated with one of the renowned companies **Yash Technologies**, based out in pune with the capacity of **Solution Architect.** 
-As a Cloud Solution Architect, my job is to help a select group of Azure customers achieve more with Azure. I provide deep architectural advice to help customers determine the best approach to utilize the many services available within the Azure platform. 
-This can include help with basic Architecture Design Sessions, conducting proof-of-concept projects, providing education on how to use specific features, serving as a liaison with Azure product teams (as necessary), etc.
+Hi, My name is **Praveen Srivastava** and currently I am associated with one of the renowned companies **Yash Technologies**, based out in **Pune** with the capacity of **Solution Architect.** 
+As a Cloud Solution Architect, my job is to help a select group of Azure customers achieve more with Azure. I provide deep architectural advice to help customers determine the best approach to utilize the many services available within the **Azure platform**. 
+This can include help with **basic Architecture Design Sessions, conducting proof-of-concept projects, providing education on how to use specific features, serving as a liaison with Azure product teams (as necessary), etc**.
 I work closely with a limited number of Azure customers in order to get to know them – their business and technical goals and challenges – in order to help them be as successful as possible with their Azure projects.
